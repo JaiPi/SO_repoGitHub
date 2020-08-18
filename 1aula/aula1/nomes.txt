@@ -1,0 +1,2 @@
+alia:x:1001:1001:Alia,,,:/home/alia:/bin/bash
+jnp:x:1000:1000:JNP:/home/jnp:/bin/bash
